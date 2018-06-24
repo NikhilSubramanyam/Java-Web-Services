@@ -2,8 +2,8 @@
 <tns:patient xmlns:tns="http://www.nikhilsubramanyam.com/Patient"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.nikhilsubramanyam.com/Patient Patient.xsd ">
-	<tns:id>1</tns:id>
-	<tns:id>1</tns:id>
+	<tns:id> 1 </tns:id>
+	<tns:id> 1 </tns:id>
 	
 	<tns:name>tns:name</tns:name>
 	<tns:age>0</tns:age>
